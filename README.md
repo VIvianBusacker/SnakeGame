@@ -1,6 +1,5 @@
 <h1>#Snake Game 🐍</h1>
 
-<br>
 <div class="btns">
         <button type="submit"><a href="https://jeongjieon.github.io/SnakeGame" style="text-decoration: none; color: black; ">Click to Play!</a></button>
     </div> 
