@@ -1,8 +1,10 @@
 <h1>#Snake Game 🐍</h1>
+
 <br>
 <div class="btns">
-        <button type="submit"><a href="https://jeongjieon.github.io/SnakeGame" style="text-decoration: none; color: black; ">Let's Play!</a></button>
+        <button type="submit"><a href="https://jeongjieon.github.io/SnakeGame" style="text-decoration: none; color: black; ">Click to Play!</a></button>
     </div> 
+<br>
 
 <p1>Welcome to my JavaScript-based Snake Game! This project was created as part of my efforts to enhance my skills in front-end development and game design using JavaScript, HTML, and CSS. The game is simple, yet demonstrates core programming concepts like event handling, DOM manipulation, and game loop mechanics.</p1>
 
